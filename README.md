@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# World-Population-Visualization
 Bar chart of most populated countries using World Bank data
 # 🌍 Top 10 Most Populous Countries - 2022
 
